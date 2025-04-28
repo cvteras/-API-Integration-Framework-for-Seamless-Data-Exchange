@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 28 23:11:38 2025
 
-@author: cgarn
+
 """
 
 import requests
