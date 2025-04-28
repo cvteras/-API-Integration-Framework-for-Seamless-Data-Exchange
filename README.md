@@ -1,6 +1,6 @@
 # -JSON Data API-Integration-Framework-for-Seamless-Data-Exchange
 
-This repository provides a Python framework for integrating with APIs using POST and GET requests. It facilitates the exchange of data using JSON files, allowing you to seamlessly interact with external APIs, send data, and retrieve results.
+This repository provides a Python framework for integrating with APIs using POST and GET requests. It facilitates the exchange of data using JSON files, allowing you to interact with external APIs, send data, and retrieve results.
 
 **Features
 **
